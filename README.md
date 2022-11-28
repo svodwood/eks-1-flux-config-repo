@@ -1,2 +1,2 @@
-# eks-1-flux-config-repo
+# Demo Flux Configuration Repository
 EKS Flux Configuration Repository
