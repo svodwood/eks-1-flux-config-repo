@@ -6,4 +6,4 @@ metadata:
   namespace: karpenter
 spec:
   interval: 1m
-  url: https://charts.karpenter.sh
+  url: oci://public.ecr.aws/karpenter/karpenter
