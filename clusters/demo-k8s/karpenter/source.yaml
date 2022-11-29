@@ -6,5 +6,5 @@ metadata:
   namespace: karpenter
 spec:
   interval: 1m
-  url: oci://public.ecr.aws/karpenter/karpenter
+  url: oci://public.ecr.aws/karpenter
   type: oci
