@@ -1,2 +1,3 @@
 # Demo Flux Configuration Repository
-EKS Flux Configuration Repository
+
+EKS Flux demo configuration repository for Karpenter
